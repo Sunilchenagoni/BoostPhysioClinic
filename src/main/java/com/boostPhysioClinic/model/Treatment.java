@@ -1,6 +1,7 @@
 package com.boostPhysioClinic.model;
 
-import com.java.project.enums.Status;
+
+import com.boostPhysioClinic.enums.Status;
 
 public class Treatment {
     private String id;
